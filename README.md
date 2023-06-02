@@ -7,8 +7,8 @@ This repo contains information and code used to install and run an LLM on my loc
 Future plans include adding training with my own data, adding offline voice commands/prompting and an avatar that provides the results through text to speech. 
 
 
-PC Specs:
-Processor:	AMD Ryzen 7 3700X 8-Core Processor 3.60 GHz
-RAM:	32.0 GB
-Video Card: Nvidia Geforce RTX 2070 Super 8GB GDDR6
-Motherboard: ASRock X570 Phantom Gaming 4
+#### PC Specs:
+Processor:	AMD Ryzen 7 3700X 8-Core Processor 3.60 GHz<br>
+RAM:	32.0 GB<br>
+Video Card: Nvidia Geforce RTX 2070 Super 8GB GDDR6<br>
+Motherboard: ASRock X570 Phantom Gaming 4<br>
